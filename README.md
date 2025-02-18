@@ -1,6 +1,6 @@
-# Dependence injection, Middleware and asynchronous processes
+# Dependency Injection, Middleware and asynchronous processes
 
-Web Application To test dependence injection, Middleware and asynchronous processes in an API
+Web Application To test dependency injection, Middleware and asynchronous processes in an API
 
 A little history:
 
